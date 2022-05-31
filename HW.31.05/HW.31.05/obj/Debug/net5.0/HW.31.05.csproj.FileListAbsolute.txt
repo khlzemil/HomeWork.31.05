@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\bin\Debug\net5.0\HW.31.05.exe
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\bin\Debug\net5.0\HW.31.05.deps.json
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\bin\Debug\net5.0\HW.31.05.runtimeconfig.json
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\bin\Debug\net5.0\HW.31.05.runtimeconfig.dev.json
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\bin\Debug\net5.0\HW.31.05.dll
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\bin\Debug\net5.0\HW.31.05.pdb
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\HW.31.05.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\HW.31.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\HW.31.05.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\HW.31.05.AssemblyInfo.cs
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\HW.31.05.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\HW.31.05.dll
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\refint\HW.31.05.dll
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\HW.31.05.pdb
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\HW.31.05.genruntimeconfig.cache
+C:\Users\hp\Desktop\HomeTask\HW.31.05\HW.31.05\obj\Debug\net5.0\ref\HW.31.05.dll
